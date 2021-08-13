@@ -15,7 +15,7 @@ export default function Home({ allPostsData }) {
         <p>
           Hello, I’m <strong>Satyam</strong>. I’m a software engineer and
           contributor at <a href="https://thirty3.in">Thirty3</a>. You can
-          contact me on <a href="https://twitter.com/satyampatr0">Twitter</a>.
+          contact me on <a href="https://twitter.com/patro_satyam">Twitter</a>.
         </p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
